@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nate Sheridan</h1>
 <h3 align="center">I will probably break the app before I fix it :/</h3>
 
-- 🔭 I’m currently working on[📈Stonki](https://github.com/natesheridan/Stonki)
+- 🔭 I’m currently working on[📈 Stonki](https://github.com/natesheridan/Stonki)
 
 - 🌱 I’m currently learning **React and TailwindCSS**
 
