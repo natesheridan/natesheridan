@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **cars🚗, hardware🖥, and JS<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>**
 
-- 📫 How to reach me **nbs@dr.com**
+- 📫 Email me @ **nbs@dr.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
