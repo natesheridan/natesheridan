@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nate!</h1>
 <h3 align="center">Need someone to break your app? Call me!</h3>
 
-- 🔭 I’m currently working on[📈 Stonki](https://github.com/reneeswick/routes)
+- 🔭 I’m currently working on[📍 Routes](https://github.com/reneeswick/routes)
 
 - 🌱 I’m currently learning **React** and **TailwindCSS**
 
