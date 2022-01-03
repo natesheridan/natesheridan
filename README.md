@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for insight on **NextJS**
 
-- 👨‍💻 All of my projects will be available at [n8s.pw](n8s.pw)
+- 👨‍💻 All of my projects are available at [n8s.pw](n8s.pw)
 
 - 💬 Ask me about **cars🚗, hardware🖥, and JS<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>**
 
