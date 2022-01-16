@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nate!</h1>
 <h3 align="center">Need someone to break your app? Call me!</h3>
 
-- 🔭 I’m currently working on my  [🙆‍♂️ personal site](https://github.com/natesheridan/n8s.pw)
+- 🔭 I’m currently working on [⚙️ Preact-HWInfo](https://github.com/natesheridan/preact-hwinfo)
+  - a Preact based SPA used to monitor PC component temperatures on web enabled external devices
 
 - 🌱 I’m currently learning **React** and **TailwindCSS**
 
