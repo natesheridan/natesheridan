@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React** and **TailwindCSS**
 
-- 🤝 I’m looking for insight on **NextJS**
+- 🤝 I’m looking for insight on **C#**
 
 - 👨‍💻 All of my projects are available at [n8s.pw](n8s.pw)
 
