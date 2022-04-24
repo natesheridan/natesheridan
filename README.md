@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [⚙️ Preact-HWInfo](https://github.com/natesheridan/preact-hwinfo)
   - a Preact based SPA used to monitor PC component temperatures on web enabled external devices
 
-- 🌱 I’m currently learning **React** and **TailwindCSS**
+- 🌱 I’m currently learning **C#** and **Flutter**
 
 - 🤝 I’m looking for insight on **C#**
 
