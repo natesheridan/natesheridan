@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nate!</h1>
 <h3 align="center">Need someone to break your app? Call me!</h3>
 
-- 🔭 I’m currently working on [⚙️ Preact-HWInfo](https://github.com/natesheridan/preact-hwinfo)
-  - a Preact based SPA used to monitor PC component temperatures on web enabled external devices
+- 🔭 I’m currently working on [⚙️ Autofoc.us](https://github.com/natesheridan/autofocus)
+  - NextJS Supabase user based block editor for sharing contentful pages.
 
 - 🌱 I’m currently learning **C#** and about **Docker Container Managment**
 
