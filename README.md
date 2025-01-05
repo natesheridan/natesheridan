@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nate!</h1>
 <h3 align="center">Need someone to break your app? Call me!</h3>
 
-- 🔭 I’m currently working on [⚙️ Autofoc.us](https://github.com/natesheridan/autofocus)
+- 🔭 I’m currently working on [⚙️ Autofoc.us](https://github.com/natesheridan/autofoc.us)
   - NextJS Supabase user based block editor for sharing contentful pages.
 
 - 🌱 I’m currently learning **C#** and about **Docker Container Managment**
